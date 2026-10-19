@@ -190,7 +190,7 @@ Computer Science Student
 
 Project: CT073-3-2 Computer System Low Level Technique
 
-GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [@sana-syed123](https://github.com/sana-syed123)
 
 ---
 
